@@ -5,6 +5,9 @@
 I'm an MCA student and B.Sc. Computer Science graduate interested in building practical software applications and improving my problem-solving skills.
 
 Currently, I'm focusing on **Python, JavaScript, SQL, web development, and Data Structures & Algorithms** while working on projects to strengthen my development skills.
+## 🛠️ My Tech Stack
+
+![Skills](https://skillicons.dev/icons?i=python,java,js,html,css,mysql,git,github,vscode)
 
 ## 👨‍💻 About Me
 
